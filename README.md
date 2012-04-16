@@ -1,9 +1,7 @@
 Spotifyify
 =========
 
-A simple bit javascript for turning selected text into a spotify album link.  Intended to be used as a bookmarklet.  It needs to be loaded by a bookmarklet as an external script because it makes spotify metadata API requests.  
-
-Takes selected text on a page and makes a spotify album search request.  If it finds any results, inserts the best matching result as a link into the page and opens the matching album in the Spotify app.
+A simple bit of javascript for turning selected text into a spotify album link.  Intended to be used as a bookmarklet.  It needs to be loaded by a bookmarklet as an external script because it makes spotify metadata API requests.  Takes selected text on a page and makes a spotify album search request.  If it finds any results, inserts the best matching result as a link into the page and opens the matching album in Spotify.
 
 Definitely not perfect.  Just wrote it for my own selfish needs.  Feel free to improve it!
 
